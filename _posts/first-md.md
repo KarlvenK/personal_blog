@@ -1,5 +1,6 @@
 ---
 title: Init()
+abbrlink: 51301
 date: 2022-10-01 22:37:55
 tags:
 ---
